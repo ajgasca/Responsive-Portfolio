@@ -211,6 +211,10 @@ button {
 #resume {
     color: #cccccc;
 }
+.port-third-col {
+    float: left;
+    margin-left: 15px;
+}
 @media screen and (max-width: 640px) {
     
     header {
